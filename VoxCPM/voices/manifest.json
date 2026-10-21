@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "model_revision": "openbmb/VoxCPM2",
+  "updated_at": "2026-10-19T04:49:53Z",
+  "voices": {
+    "eric": {
+      "id": "eric",
+      "display_name": "Eric",
+      "source_file": "中学生男孩.wav",
+      "duration_sec": 26.448,
+      "sample_rate": 44100,
+      "feat_file": "eric.safetensors",
+      "feat_shape": [
+        166,
+        4,
+        64
+      ],
+      "created_at": "2026-10-08T06:54:18Z",
+      "model_revision": "openbmb/VoxCPM2"
+    },
+    "amy": {
+      "id": "amy",
+      "display_name": "voice_amy - friendly, young and natural",
+      "source_file": "voice_preview_amy - friendly, young and natural.mp3",
+      "duration_sec": 31.605,
+      "sample_rate": 44100,
+      "feat_file": "amy.safetensors",
+      "feat_shape": [
+        198,
+        4,
+        64
+      ],
+      "created_at": "2026-10-10T08:43:21Z",
+      "model_revision": "openbmb/VoxCPM2"
+    },
+    "female": {
+      "id": "female",
+      "display_name": "voice_amy - friendly, young and natural",
+      "source_file": "voice_preview_amy - friendly, young and natural.mp3",
+      "duration_sec": 31.605,
+      "sample_rate": 44100,
+      "feat_file": "female.safetensors",
+      "feat_shape": [
+        198,
+        4,
+        64
+      ],
+      "created_at": "2026-10-10T08:44:32Z",
+      "model_revision": "openbmb/VoxCPM2"
+    },
+    "demo_store": {
+      "id": "demo_store",
+      "display_name": "门店示范音色",
+      "source_file": "out.wav",
+      "duration_sec": 5.76,
+      "sample_rate": 48000,
+      "feat_file": "demo_store.safetensors",
+      "feat_shape": [
+        36,
+        4,
+        64
+      ],
+      "created_at": "2026-10-12T03:01:44Z",
+      "model_revision": "openbmb/VoxCPM2"
+    },
+    "male": {
+      "id": "male",
+      "display_name": "male",
+      "source_file": "audio (1).wav",
+      "duration_sec": 8.64,
+      "sample_rate": 48000,
+      "feat_file": "male.safetensors",
+      "feat_shape": [
+        54,
+        4,
+        64
+      ],
+      "created_at": "2026-10-19T04:49:53Z",
+      "model_revision": "openbmb/VoxCPM2"
+    }
+  }
+}
