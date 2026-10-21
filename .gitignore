@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+venv/
+.env
+*.tmp
+*.pt
+*.pth
+*.bin
+*.ckpt
