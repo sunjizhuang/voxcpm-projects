@@ -5,7 +5,7 @@ import time
 
 
 def print_time(message):
-    """打印当前准确时间（精确到毫秒）"""
+    """打印当前准d确时间（精确到毫秒）"""
     now = datetime.now()
     print(f"[{now.strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]}] {message}", flush=True)
 
